@@ -1,0 +1,31 @@
+Reuters: Facebook Inc revealed plans to launch a cryptocurrency called Libra, the latest development in its effort to expand beyond social networking and move into e-commerce and global payments.
+Facebook has linked with 28 partners in a Geneva-based entity called the Libra Association, which will govern its new digital coin set to launch in the first half of 2020, according to marketing materials and interviews with executives.
+Facebook has also created a subsidiary called Calibra, which will offer digital wallets to save, send and spend Libras. Calibra will be connected to Facebook’s messaging platforms Messenger and WhatsApp, which already boast more than a billion users.
+The Menlo Park, California-based company has big aspirations for Libra, but consumer privacy concerns or regulatory barriers may present significant hurdles.
+Facebook hopes it will not only power transactions between established consumers and businesses around the globe, but offer unbanked consumers access to financial services for the first time.
+The name “Libra” was inspired by Roman weight measurements, the astrological sign for justice and the French word for freedom, said David Marcus, a former PayPal executive who heads the project for Facebook.
+“Freedom, justice and money, which is exactly what we’re trying to do here,” he said.
+Facebook also appears to be betting it can squeeze revenue out of its messaging services through transactions and payments, something that is already happening on Chinese social apps like WeChat.
+The Libra announcement comes as Facebook is grappling with public backlash due to a series of scandals, and may face opposition from privacy advocates, consumer groups, regulators and lawmakers.
+Some Facebook adversaries have called for the company to incur penalties, or be forcibly broken up, for mishandling user data, allowing troubling material to appear on its site and not preventing Russian interference in the 2016 presidential election through a social media disinformation campaign.
+It is not clear how lawmakers or regulators will react to Facebook making a push into financial services through the largely unregulated world of cryptocurrency.
+In recent years, cryptocurrency investors have lost hundreds of millions of dollars through hacks, and the market has been plagued by accusations of money-laundering, illegal drug sales and terrorist financing.
+Facebook has engaged with regulators in the United States and abroad about the planned cryptocurrency, company executives said. They would not specify which regulators or whether the company has applied for financial licenses anywhere.
+Facebook hopes it can bring global regulators to the table by publicizing Libra, said Kevin Weil, who runs product for the initiative.
+“It gives us a basis to go and have productive conversations with regulators around the world,” said Weil. “We’re eager to do that.”
+MAJOR PARTNERS
+Bitcoin, the most well-known cryptocurrency, was created in 2008 as a way for pseudonymous users to transfer value online through encrypted digital ledgers. Early developers believed that the world needed an alternative to traditional currencies, which are controlled by governments and by central banks.
+Since then, thousands of bitcoin alternatives have launched, and Facebook is just one of dozens of blue-chip companies dabbling with the underlying technology. But its status as a Silicon Valley behemoth that touches billions of people around the world has created significant buzz around Libra’s potential.
+Partners in the project include household names like Mastercard Inc, Visa Inc, Spotify Technology SA, PayPal Holdings Inc, eBay Inc, Uber Technologies Inc and Vodafone Group Plc, as well as venture capital firms like Andreessen Horowitz.
+They hope to have 100 members by Libra’s launch during the first half of 2020. Each member gets one vote on substantial decisions regarding the cryptocurrency network and firms must invest at least $10 million to join. Facebook does not plan to maintain a leadership role after 2019.
+Though there are no banks among the inaugural members, there have been discussions with a number of lenders about joining, said Jorn Lambert, executive vice president for digital solutions at Mastercard. They are waiting to see how regulators and consumers respond to the project before deciding whether to join, he said.
+The Libra Association plans to raise money through a private placement in the coming months, according to a statement from the association.
+PRIVACY, REGULATORY CONCERNS
+Although Libra-backers who spoke to Reuters or provided materials are hopeful about its prospects, some expressed awareness that consumer privacy concerns or regulatory barriers may prevent the project from succeeding.
+Calibra will conduct compliance checks on customers who want to use Libra, using verification and anti-fraud processes that are common among banks, Facebook said.
+The subsidiary will only share customer data with Facebook or external parties if it has consent, or in “limited cases” where it is necessary, Facebook said. That could include for law enforcement, public safety or general system functionality.
+Transactions will cost individuals less than merchants, Facebook said, though executives declined to provide specifics. Each Libra will be backed by a basket of government-backed assets.
+The company plans to refund customers who lose money because of fraud, Facebook said.
+Sri Shivananda, Paypal’s chief technology officer said in an interview that the project is still in its “very, very early days,” and there were conversations in progress with regulators.
+Mastercard’s Lambert characterized Libra similarly, noting much needed to happen before the launch.
+If the project receives too much regulatory pushback, he said, “we might not launch.”

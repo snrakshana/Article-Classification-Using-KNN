@@ -1,0 +1,18 @@
+*the original article appeared on www.bbc.com 
+a us lawmaker has said facebook should delay the launch of its libra crypto-currency – hours after the social network formally announced the project.
+libra, set to be launched next year, will let people make payments via facebook’s apps and whatsapp.
+but the company should wait until the us congress has examined the project, according to the chairwoman of the house financial services committee.
+facebook said it looked forward to responding to policymakers’ questions.
+“given the company’s troubled past, i am requesting that facebook agree to a moratorium on any movement forward on developing a crypto-currency until congress and regulators have the opportunity to examine these issues and take action,” said democratic congresswoman maxine waters.
+she cited the firm’s history of controversies involving user-data among her concerns and called on facebook’s executives to testify before her committee.
+“we look forward to responding to policymakers’ questions as this process moves forward,” a facebook spokesman said.
+facebook plans to allow its users to buy libra and store it online in a digital wallet called calibra. it would then be transferable between users and could eventually be used to pay bills or buy things.
+us senator sherrod brown, who sits on the senate banking committee, said he thought facebook had become “too big and too powerful”.
+“we cannot allow facebook to run a risky new crypto-currency out of a swiss bank account without oversight,” he said in a statement.
+uk regulators are not yet waving a red flag in front of the facebook crypto-currency train – but they are making it clear that if it does gather speed they will want to step in. or as bank of england governor mark carney said yesterday about the crypto-market in general: “anything that works in this world will become instantly systemic and will have to be subject to the highest standards of regulation.”
+if libra wants to be a big player in the uk’s payments system it will have to be regulated by the financial conduct authority and show that it knows who its customers are and that it has strong anti-money-laundering controls. existing money-transfer firms say complying with all the rules can be an onerous and expensive business.
+that said, i detect some scepticism amongst the regulators about the prospects for facebook’s currency in the uk. one official pointed out that the uk already had a cheap, fast and efficient payment system. “it’s not obvious why someone here would choose to hold libra with some exchange rate risk when they could use pounds. ”
+they also point out that the libra blockchain is still under development and there is little detail about how the system will work. that said, if this does turn out to be the future of money, there will be all sorts of consequences for the world economy, so the regulators are going to keep a close eye on how the project develops.
+according to a letter seen by the financial times, the g7 nations plan to set up a working group to evaluate the risks of currencies like libra.
+the participants will examine, for example, the potential for libra to be exploited by money-launderers.
+it’s not yet clear how many of facebook’s 2.38 billion users worldwide would make use of libra – but given the size of the social network, it is possible that the crypto-currency could become a significant financial force.
